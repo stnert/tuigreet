@@ -988,16 +988,15 @@ checksum = "29738eedb4388d9ea620eeab9384884fc3f06f586a2eddb56bedc5885126c7c1"
 
 [[package]]
 name = "tokio"
-version = "1.18.2"
+version = "1.18.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4903bf0427cf68dddd5aa6a93220756f8be0c34fcfa9f5e6191e103e15a31395"
+checksum = "8bfb875c82dc0a4f1f37a30e720dee181a2b3a06a428b0fc6873ea38d6407850"
 dependencies = [
  "bytes",
  "libc",
  "memchr",
  "mio",
  "num_cpus",
- "once_cell",
  "pin-project-lite",
  "signal-hook-registry",
  "socket2",
